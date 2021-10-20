@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif, arial;
+}
+
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: 	#16022E;
+	height: 10vh;
+
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+	padding: 30px;
+}
+
+
+.navbar,
+.logo{
+	
+	padding: 0 6%;
+}
+.lorem{
+	text-align: center;
+	background-color: #c0c0c0;
+	height: 350px;
+	width: 450px;
+	margin: 0 auto;
+	margin-top: 5%;
+}
+
+
